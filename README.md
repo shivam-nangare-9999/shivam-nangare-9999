@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🖥️ I’m currently Studying Computer Technology<br> 🚀 I’m currently learning Programming Languages 
+🖥️ I’m currently Studying Computer Technology<br> 🚀 I’m currently learning Programming Languages <br>
 🏆 1x Hackathon Winner
 
 
