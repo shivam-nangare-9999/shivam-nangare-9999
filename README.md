@@ -53,6 +53,19 @@
 
 ---
 
+# 🧠 Engineering Philosophy
+
+```mermaid
+flowchart TD
+
+A[Observe Problems] --> B[Think Deeply]
+B --> C[Build Solutions]
+C --> D[Iterate Continuously]
+D --> E[Create Impact]
+```
+
+---
+
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=shivam-nangare-9999&show_icons=true&theme=default)
